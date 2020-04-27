@@ -1,0 +1,15 @@
+export const SET_TODOS = 'SET_TODOS';
+export const SET_NOTE = 'SET_NOTE';
+export const SET_NOTES = 'SET_NOTES';
+export const REMOVE_NOTE = 'REMOVE_NOTE';
+export const REMOVE_TODO = 'REMOVE_TODO';
+export const SET_EDITED_TODO = 'SET_EDITED_TODO';
+export const SET_TODO_TITLE = 'SET_TODO_TITLE';
+export const SET_NOTE_TITLE = 'SET_NOTE_TITLE';
+export const ADD_TODO = 'ADD_TODO';
+export const SET_VISIBILITY = 'SET_VISIBILITY';
+export const CREATE_TEMP_TODOLIST = 'CREATE_TEMP_TODOLIST';
+export const SAVE_NOTE = 'SAVE_NOTE';
+export const CANCEL_EDIT_NOTE = 'CANCEL_EDIT_NOTE';
+export const UNDO_NOTE = 'UNDO_NOTE';
+export const SHOW_MODAL = 'SHOW_MODAL';
